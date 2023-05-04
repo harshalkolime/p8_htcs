@@ -76,7 +76,8 @@ font-weight: 100;}
     font-weight: 500;}
     
     
-    .l1 span {color: rgb(58, 82, 177);}
+    .l1 span {color: rgb(58, 82, 177);
+    font-weight:600;}
     
     
     .l2{width: 50%;
